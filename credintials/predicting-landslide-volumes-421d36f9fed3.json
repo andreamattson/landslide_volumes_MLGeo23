@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "predicting-landslide-volumes",
+  "private_key_id": "421d36f9fed3dba4d5978296a1996df41326e60d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDukvxsAIwESMIW\nU89vkwJ3HtOVFSH+JvclVEcPDNF5LlWzIfKuSW4GN4IxoVOZJVJSZrcl9xfGlwVO\n1zN9IyuN6QRhApG21P11N+o19Q5AMCq0qx3luXighXSDUS92xqZwfXyf7kHmgSjV\n+U//ghCZVZTCXH9jm4NLfYsar0ZyXmTBC24TCoUhrdfKCAIHeb8sul1OMdrng/tb\nFecdMppel91NI0wj7znLRX4rBGCuW6ExeoMzRPBTFzZrDaoGf+BleAAcnFhNxhf2\nv8ilE6fdtE8AWIKiCtUE63E2dA2P+mejf/iEUYsVyhk9IxRktiD4iTQeJ/MoEomo\nxTQZKd8zAgMBAAECggEAZKlYICnK6jPY0JrkN2uL6r7y/0A/a4D9Xp7ErLD34W2P\nc1mrj6Yj6jOZl18+aqu4pFP6iuZK/dvSvYVHkFE6m1HqKxRubvpHRyIkjEetj5/D\nJR/eKYOsRe6JTq7+m9sNdwE7iC97VsrAdCgRfPlgD5JwheGJTnnbWArMmqHB05b3\n1SzWSrRwY2s/tW5U9qhENNJDmGm+9qq+5OpB4/Ra6KHqODpN9py8R3gcKGCfr8R+\nEG8WNPo7BqjAM4pQUJTrh26+Ygtntl8IKZdC8WTmo5VqfvM4S/qxGY3xpJB5dv+r\nf3rgfr8xcmJqbEjwQ8utOxwBCw0RMtT8Mnfdjcg4gQKBgQD5cL53VElXwTFsp+nR\nu/i/ic0gdbgs3kEAN5K7HZc/L/fuo00ueIwRSbYTnXAfCNgZDyMPVuXZiJl1UMgf\nDLBndv8c4GTBLs7aeg/PQ9m+R7/6jFMvjhURRJ7MVX1fPZ2L2aaYLcd3uDjPCZa2\nRcbbDVati0pBckx2GESuUzvKAwKBgQD02RbnDEYOKRcIqOTz2Z6+26LpRwChCMOw\nTQOlVK9Tp9JhSy22aqsCi/Znn37HB/E9W83a/lNQG5e5XD0jVZm9B48ECbn2bI8L\n7tMJx1xs+DxpTHSAJybb0cmFtj8Ym4bdy8oxjU/lp195ijVWj0CVzqvqAzNYnN5E\nYJUcqXknEQKBgDdowgaD5J7nvXDjg98hIEp78+MIA1eEL3A66A9ErXpNz4dlIxn1\nkTet5hJJYMSkFEzMvf8EUJ6X527V+P5ctTrmhhkGB5uaKD0D7EsgSVgpXA3t6fSg\nXTGuyo+dVfI4H60XNhiL4slHVOc4vA/VRC0Ys25tiJstJqr9DRSkTJ29AoGBAM45\nltet98dvhm4NyyE0F0fLuHBhFD+OITx58WssY6vDOyglaPAu8bBocHag2OgMYXz7\nuOwNr+BWDTnbXcdIDwAuwJ93DcFneChl1Cx1VPyXLFLISYuy7kDRdrn/YS95t2NS\nhQ+tZTEaAwlchkZMy+ohs5yba4DkRzUyYAVPHLLxAoGAW7pUYoZfOe+4wS23p71N\nkxuh8XkHjSVj0Y+LrWhwQlJV0ScskTOy4dqwzF9fao6bjtfGtMwTmX2JsGRDwsWn\nQ6/OZsu7lsxwFPU47yGMR4+ABRp4nPF//S3M2Lm3yzLd8GkTAPcgTIqvu5zmELXI\nRbwme2zLH3fMgqnZPOqgjTs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "landslide-volumes@predicting-landslide-volumes.iam.gserviceaccount.com",
+  "client_id": "115110171654070603202",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/landslide-volumes%40predicting-landslide-volumes.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
